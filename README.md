@@ -28,11 +28,11 @@ Here are a few of the languages I use:
 
 ### Stats
 
-![Cameron's GitHub stats](GitHubStats)
+![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=BowsiePup&show_icons=true&theme=dracula)
 
 ### Trophies
 
-![Camerons's github trophies](GHStars)
+![Camerons's github trophies](https://github-profile-trophy.vercel.app/?username=BowsiePup&theme=dracula)
 
 ## 📫 How to Reach Me
 [![LinkedIn][LinkedIn]][LinkedIn-URL]
@@ -43,8 +43,6 @@ Here are a few of the languages I use:
 [AstroCoding]: https://github.com/AstroCoding
 [Featured]: https://github.com/AstroCoding/btd6_autoplay
 [YouTubeBotOnTopGG]: https://top.gg/bot/youtube
-[GitHubStats]: https://github-readme-stats.vercel.app/api?username=BowsiePup&show_icons=true&theme=dracula
-[GHStars]: https://github-profile-trophy.vercel.app/?username=BowsiePup
 [LinkedIn-URL]: https://linkedin.com/in/cameron-r-maclean
 [Mail-URL]: https://mail.google.com/mail?view=cm&source=mailto&to=cameronrhmac@gmail.com
 <!-- Shields -->
