@@ -24,19 +24,25 @@ Here are a few of the languages I use:
 
 💬 Ask me about my Discord bot projects! Currently, I'm working on a bot that interfaces with the YouTube API and their push notifications. You can view more information [here](YouTubeBotOnTopGG "YouTubeBot on Top.gg").
 
-## <p align="center"> GitHub Info
+# <p align="center"> GitHub Info
 
-### Stats
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=BowsiePup&show_icons=true&theme=dracula)
+### <p align="center"> Stats
 
-### Trophies
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BowsiePup&show_icons=true&theme=dracula" />
 
-![Camerons's github trophies](https://github-profile-trophy.vercel.app/?username=BowsiePup&theme=dracula)
+### <p align="center"> Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=BowsiePup&theme=dracula" />
 
 ## <p align="center"> 📫 How to Reach Me 
 
 [![LinkedIn][LinkedIn]][LinkedIn-URL]
 [![Mail][Mail]][Mail-URL] 
+
+
+### <p align="center"> Spotify
+
+<a href="https://open.spotify.com/user/BowsiePup"><img align="center" src="https://spotify-status-widget.vercel.app/api/spotify" /></a>
 
 
 
