@@ -1,4 +1,4 @@
-# Cameron Maclean / BowsiePup
+# <p align="center"> Cameron Maclean / BowsiePup </p>
 
 ## Hi there 👋
 
@@ -24,19 +24,20 @@ Here are a few of the languages I use:
 
 💬 Ask me about my Discord bot projects! Currently, I'm working on a bot that interfaces with the YouTube API and their push notifications. You can view more information [here](YouTubeBotOnTopGG "YouTubeBot on Top.gg").
 
-## Stats
+## <p align="center"> GitHub Info
 
 ### Stats
-
 ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=BowsiePup&show_icons=true&theme=dracula)
 
 ### Trophies
 
 ![Camerons's github trophies](https://github-profile-trophy.vercel.app/?username=BowsiePup&theme=dracula)
 
-## 📫 How to Reach Me
+## <p align="center"> 📫 How to Reach Me 
+
 [![LinkedIn][LinkedIn]][LinkedIn-URL]
-[![Mail][Mail]][Mail-URL]
+[![Mail][Mail]][Mail-URL] 
+
 
 
 <!-- Links Etc-->
@@ -45,6 +46,7 @@ Here are a few of the languages I use:
 [YouTubeBotOnTopGG]: https://top.gg/bot/youtube
 [LinkedIn-URL]: https://linkedin.com/in/cameron-r-maclean
 [Mail-URL]: https://mail.google.com/mail?view=cm&source=mailto&to=cameronrhmac@gmail.com
+
 <!-- Shields -->
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Mail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
