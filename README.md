@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a general male (he/him) developer with years of experience using multiple languages.
+I'm a general male (he/him) developer with 5 years of experience using multiple languages.
 
 Here are a few of the languages I use:
 
