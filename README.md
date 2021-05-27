@@ -36,7 +36,6 @@ Here are a few of the languages I use:
 
 ## 📫 How to Reach Me
 [![LinkedIn][LinkedIn]][LinkedIn-URL]
-
 [![Mail][Mail]][Mail-URL]
 
 
