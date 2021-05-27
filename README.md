@@ -1,6 +1,6 @@
 # <p align="center"> Cameron Maclean / BowsiePup </p>
 
-## Hi there 👋
+### Hi there 👋
 
 I'm a general male (he/him) developer with years of experience using multiple languages.
 
