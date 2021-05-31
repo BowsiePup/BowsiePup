@@ -17,7 +17,7 @@ Here are a few of the languages I use:
 - MongoDB and SQLite for Databasing
 ```
 
-⚡ Fun fact: I do many projects with [AstroCoding](AstroCoding "Mark H"), only a few of which are public. My favourite of which is a ["BloonsTD 6 autoplayer"](Featured "Click here")
+⚡ Fun fact: I do many projects with [AstroCoding](AstroCoding "Mark H"), only a few of which are public. My favourite of which is a ["BloonsTD 6 autoplayer"](BTD6)
 
 
 🌱 I’m currently working on enhancing my GoLang skills.
@@ -49,7 +49,7 @@ Here are a few of the languages I use:
 
 <!-- Links Etc-->
 [AstroCoding]: https://github.com/AstroCoding
-[Featured]: https://github.com/AstroCoding/btd6_autoplay
+[BTD6]: https://github.com/AstroCoding/btd6_autoplay
 [YouTubeBotOnTopGG]: https://top.gg/bot/youtube
 [LinkedIn-URL]: https://linkedin.com/in/cameron-r-maclean
 [Mail-URL]: https://mail.google.com/mail?view=cm&source=mailto&to=cameronrhmac@gmail.com
