@@ -17,12 +17,12 @@ Here are a few of the languages I use:
 - MongoDB and SQLite for Databasing
 ```
 
-⚡ Fun fact: I do many projects with [AstroCoding](AstroCoding "Mark H"), only a few of which are public. My favourite of which is a ["BloonsTD 6 autoplayer"](Featured "Click here")
+⚡ Fun fact: I do many projects with [AstroCoding][AstroCoding], only a few of which are public. My favourite of which is a ["BloonsTD 6 autoplayer"][BTD6]
 
 
 🌱 I’m currently working on enhancing my GoLang skills.
 
-💬 Ask me about my Discord bot projects! Currently, I'm working on a bot that interfaces with the YouTube API and their push notifications. You can view more information [here](YouTubeBotOnTopGG "YouTubeBot on Top.gg").
+💬 Ask me about my Discord bot projects! Currently, I'm working on a bot that interfaces with the YouTube API and their push notifications. You can view more information [here][YouTubeBotOnTopGG].
 
 ## <p align="center"> GitHub Info
 
@@ -47,9 +47,9 @@ Here are a few of the languages I use:
 
 
 <!-- Links Etc-->
-[AstroCoding]: https://github.com/AstroCoding
-[Featured]: https://github.com/AstroCoding/btd6_autoplay
-[YouTubeBotOnTopGG]: https://top.gg/bot/youtube
+[AstroCoding]: https://github.com/AstroCoding "Mark H"
+[BTD6]: https://github.com/AstroCoding/btd6_autoplay
+[YouTubeBotOnTopGG]: https://top.gg/bot/youtube "YouTubeBot on Top.gg"
 [LinkedIn-URL]: https://linkedin.com/in/cameron-r-maclean
 
 <!-- Shields -->
