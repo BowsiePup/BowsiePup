@@ -38,7 +38,6 @@ Here are a few of the languages I use:
 ## <p align="center"> 📫 How to Reach Me 
 
 [![LinkedIn][LinkedIn]][LinkedIn-URL]
-[![Mail][Mail]][Mail-URL] 
 
 
 ## <p align="center"> 🎧 Currently Listening to
@@ -52,8 +51,6 @@ Here are a few of the languages I use:
 [Featured]: https://github.com/AstroCoding/btd6_autoplay
 [YouTubeBotOnTopGG]: https://top.gg/bot/youtube
 [LinkedIn-URL]: https://linkedin.com/in/cameron-r-maclean
-[Mail-URL]: https://mail.google.com/mail?view=cm&source=mailto&to=cameronrhmac@gmail.com
 
 <!-- Shields -->
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[Mail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
