@@ -1,4 +1,4 @@
-# <p align="center"> Cameron Maclean / BowsiePup </p>
+# <p align="center"> Cameron Maclean / Bowsie </p>
 
 ### Hi there 👋
 
