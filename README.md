@@ -1,4 +1,9 @@
 # <p align="center"> Cameron Maclean / Bowsie </p>
+<p align="center">
+  Total profile views
+  <br/>
+  <img src="https://profile-counter.glitch.me/BowsiePup/count.svg" />
+</p>
 
 ### Hi there 👋
 
@@ -24,25 +29,25 @@ Here are a few of the languages I use:
 
 💬 Ask me about my Discord bot projects! Currently, I'm working on a bot that interfaces with the YouTube API and their push notifications. You can view more information [here][YouTubeBotOnTopGG].
 
-## <p align="center"> GitHub Info
+## <p align="center"> GitHub Info </p>
 
-### Stats
+### <p align="center"> Stats </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BowsiePup&show_icons=true&theme=dracula" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BowsiePup&show_icons=true&theme=dracula" />
-
-### Trophies
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=BowsiePup&theme=dracula" />
-
+### <p align="center"> Trophies </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BowsiePup&theme=dracula" />
+</p>
 
 ## <p align="center"> 📫 How to Reach Me 
-
 [![LinkedIn][LinkedIn]][LinkedIn-URL]
 
-
-## <p align="center"> 🎧 Currently Listening to
-
-<a href="https://open.spotify.com/user/22323o4hwe22p7gbgdzxffwwy"><img align="center" src="https://spotify-status-widget.vercel.app/api/spotify" /></a>
+## <p align="center"> 🎧 Currently Listening to </p>
+<p align="center">
+  <img src="https://spotify-status-widget.vercel.app/api/spotify" />
+</p>
 
 
 
