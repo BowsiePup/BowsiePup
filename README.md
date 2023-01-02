@@ -25,7 +25,7 @@ Here are a few of the languages I use:
 ⚡ Fun fact: I do many projects with [AstroCoding][AstroCoding], only a few of which are public. My favourite of which is a ["BloonsTD 6 autoplayer"][BTD6]
 
 
-🌱 I’m currently working on enhancing my GoLang skills.
+🌱 I'm currently working on solidifying my DevOps abilities.
 
 💬 Ask me about my Discord bot projects! Currently, I'm working on a bot that interfaces with the YouTube API and their push notifications. You can view more information [here][YouTubeBotOnTopGG].
 
