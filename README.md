@@ -52,7 +52,7 @@ Here are a few of the languages I use:
 
 
 <!-- Links Etc-->
-[MoonstarCoding]: https://github.com/AstroCoding "Mark H"
+[MoonstarCoding]: https://github.com/Moonstarcoding "Mark H"
 [BTD6]: https://github.com/Jazzmoon/btd6_autoplay
 [YouTubeBotOnTopGG]: https://top.gg/bot/youtube "YouTubeBot on Top.gg"
 [LinkedIn-URL]: https://linkedin.com/in/cameron-r-maclean
