@@ -22,7 +22,7 @@ Here are a few of the languages I use:
 - MongoDB and SQLite for Databasing
 ```
 
-⚡ Fun fact: I do many projects with [AstroCoding][AstroCoding], only a few of which are public. My favourite of which is a ["BloonsTD 6 autoplayer"][BTD6]
+⚡ Fun fact: I do many projects with [MoonstarCoding][MoonstarCoding], only a few of which are public. My favourite of which is a ["BloonsTD 6 autoplayer"][BTD6]
 
 
 🌱 I'm currently working on solidifying my DevOps abilities.
